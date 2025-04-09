@@ -121,7 +121,7 @@ figlet -f slant 'BANGLADESH-ISLAMIC-CYBER- PROTECTOR' |lolcat
 echo
 echo
 echo 
-figlet -f slant 'WELLCOME' |lolcat
+figlet -f slant 'WELLCOME BICP' |lolcat
 echo
 echo
 echo
