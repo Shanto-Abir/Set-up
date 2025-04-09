@@ -1,6 +1,7 @@
 # Set-up
 এটা সেটআপ টুল তো ব্যবহার সহজ ব্যবহার করুন সবাই
 
+/bicp
 pkg up -y
 
 pkg i python -y
