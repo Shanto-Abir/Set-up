@@ -2,7 +2,9 @@
 এটা সেটআপ টুল তো ব্যবহার সহজ ব্যবহার করুন সবাই
 
 
-pkg up -y
+pkg update -y
+
+pkg upgrade -y
 
 pkg i python -y
 
